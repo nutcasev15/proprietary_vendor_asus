@@ -208,6 +208,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/mofd-common/proprietary/lib/libinterface-provider.so:system/lib/libinterface-provider.so \
     vendor/asus/mofd-common/proprietary/lib/libmamgr-xmm.so:system/lib/libmamgr-xmm.so \
     vendor/asus/mofd-common/proprietary/lib/libtfa9890.so:system/lib/libtfa9890.so \
+    vendor/asus/mofd-common/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/asus/mofd-common/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/asus/mofd-common/proprietary/lib/parameter-framework-plugins/Audio/libremoteparameter-subsystem.so:system/lib/parameter-framework-plugins/Audio/libremoteparameter-subsystem.so \
     vendor/asus/mofd-common/proprietary/lib/parameter-framework-plugins/Audio/libtinyalsa_custom-subsystem.so:system/lib/parameter-framework-plugins/Audio/libtinyalsa_custom-subsystem.so \
