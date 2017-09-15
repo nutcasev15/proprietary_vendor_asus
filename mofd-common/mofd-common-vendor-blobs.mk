@@ -824,7 +824,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/mofd-common/proprietary/etc/firmware/psh.bin.0000.0000.0008.0008.0001.0001:system/etc/firmware/psh.bin.0000.0000.0008.0008.0001.0001 \
     vendor/asus/mofd-common/proprietary/etc/firmware/psh.bin.0000.0000.0008.0008.0002.0001:system/etc/firmware/psh.bin.0000.0000.0008.0008.0002.0001 \
     vendor/asus/mofd-common/proprietary/etc/firmware/psh.bin.zx550ml:system/etc/firmware/psh.bin.zx550ml \
-    vendor/asus/mofd-common/proprietary/lib/hw/sensors.vendor.mofd_v1.so:system/lib/hw/sensors.vendor.mofd_v1.so \
+    vendor/asus/mofd-common/proprietary/lib/sensors.vendor.mofd_v1.so:system/lib/sensors.vendor.mofd_v1.so \
     vendor/asus/mofd-common/proprietary/lib/libcontextarbitor.so:system/lib/libcontextarbitor.so \
     vendor/asus/mofd-common/proprietary/lib/libsensorhub.so:system/lib/libsensorhub.so \
     vendor/asus/mofd-common/proprietary/lib/libstlport.so:system/lib/libstlport.so \
